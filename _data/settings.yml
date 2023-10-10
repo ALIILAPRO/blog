@@ -1,0 +1,28 @@
+
+disqus:
+  comments: false
+  disqus_shortname: ''
+
+google-ID: ''
+
+menu:
+- {name: 'About',   url: 'about.html'}
+- {name: 'Writing', url: 'writing.html'}
+- {name: 'Contact', url: 'contact.html'}
+
+social:
+- {icon: 'github',     link: 'https://www.github.com/aliilapro'}
+- {icon: 'twitter',    link: 'https://twitter.com/'}
+- {icon: 'linkedin',   link: 'http://www.linkedin.com/in/'}
+- {icon: 'envelope',   link: 'mailto:aliilapro@pm.me'}
+- {icon: 'rss-square', link: '/feed.xml'}
+
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy:'
+
+post_date_prefix: 'Written on'

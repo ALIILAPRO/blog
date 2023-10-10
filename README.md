@@ -1,2 +1,2 @@
 # blog
-ALIILAPRO personal blog
+aliilapro personal blog

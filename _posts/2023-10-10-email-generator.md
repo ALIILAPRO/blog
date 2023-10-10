@@ -7,7 +7,7 @@ tags: [learn,sample,python,code,email]
 image: email.jpg
 ---
 
-<div dir="rtl" style="white-space: pre-line; markdown="1">
+<div dir="rtl" markdown="1">
 
 خب بعضی ها تون یدونه ایمیل دارید یا کلا چند تا دارید یا بازم اینکه از یدونه ایمیل استفاده می کنید برای ثبت نام
 

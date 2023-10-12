@@ -3,7 +3,7 @@ layout: post
 title: "Email Generator | تولید کننده ایمیل"
 author: "ALIILAPRO"
 categories: journal
-tags: [learn,sample,python,code,email]
+tags: [learn,sample,python,code,email,aliilapro]
 image: email.jpg
 ---
 

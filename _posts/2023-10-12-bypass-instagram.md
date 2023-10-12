@@ -3,7 +3,7 @@ layout: post
 title: "دور زدن فیلترینگ اینستاگرام"
 author: "ALIILAPRO"
 categories: journal
-tags: [instagram,فیلتر]
+tags: [instagram,فیلتر,aliilapro]
 image: instagram.jpg
 ---
 

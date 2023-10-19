@@ -1,7 +1,7 @@
 
 disqus:
-  comments: false
-  disqus_shortname: ''
+  comments: true
+  disqus_shortname: 'ALIILAPRO'
 
 google-ID: ''
 

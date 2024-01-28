@@ -3,7 +3,7 @@ disqus:
   comments: true
   disqus_shortname: 'aliilapro-github-io-blog'
 
-google-ID: ''
+google-ID: 'G-PNYG120JT5'
 
 menu:
 - {name: 'About',   url: 'about.html'}

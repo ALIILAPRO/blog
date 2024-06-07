@@ -1,6 +1,6 @@
 
 disqus:
-  comments: true
+  comments: false
   disqus_shortname: 'aliilapro-github-io-blog'
 
 google-ID: 'G-PNYG120JT5'
